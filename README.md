@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 home: true
 actionText: Get Started →
@@ -11,3 +12,7 @@ features:
   details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
 footer: MIT Licensed | Copyright © 2018-present Evan You
 ---
+=======
+# vuepress-api-doc
+API documentation using Vuepress
+>>>>>>> 48f3c27f4ddf42e84ed6fe3f77c154e7e16d7902
